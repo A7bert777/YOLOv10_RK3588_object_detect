@@ -1,4 +1,4 @@
-# **YOLOv10_RK3588_object_detect **
+# ** YOLOv10_RK3588_object_detect **
 
 # **目标检测仓库**
 
