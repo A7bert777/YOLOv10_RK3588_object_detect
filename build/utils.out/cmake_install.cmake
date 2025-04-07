@@ -1,4 +1,4 @@
-# Install script for directory: /home/firefly/yolov10_github/utils
+# Install script for directory: /home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/utils
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

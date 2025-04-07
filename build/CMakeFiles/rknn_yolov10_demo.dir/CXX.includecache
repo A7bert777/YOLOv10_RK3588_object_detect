@@ -18,6 +18,10 @@ common.h
 image_utils.h
 ../include/image_utils.h
 
+../include/rknn_api.h
+stdint.h
+-
+
 ../include/yolov10.h
 rknn_api.h
 ../include/rknn_api.h
@@ -38,7 +42,7 @@ common.h
 common.h
 ../utils/common.h
 
-/home/firefly/yolov10_github/src/main.cc
+/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/src/main.cc
 stdint.h
 -
 stdio.h
@@ -48,13 +52,13 @@ stdlib.h
 string.h
 -
 yolov10.h
-/home/firefly/yolov10_github/src/yolov10.h
+/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/src/yolov10.h
 image_utils.h
-/home/firefly/yolov10_github/src/image_utils.h
+/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/src/image_utils.h
 file_utils.h
-/home/firefly/yolov10_github/src/file_utils.h
+/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/src/file_utils.h
 image_drawing.h
-/home/firefly/yolov10_github/src/image_drawing.h
+/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/src/image_drawing.h
 string
 -
 chrono
@@ -72,9 +76,9 @@ unistd.h
 cstring
 -
 
-/home/firefly/yolov10_github/src/postprocess.cc
+/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/src/postprocess.cc
 yolov10.h
-/home/firefly/yolov10_github/src/yolov10.h
+/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/src/yolov10.h
 math.h
 -
 stdint.h
@@ -92,7 +96,7 @@ set
 vector
 -
 
-/home/firefly/yolov10_github/src/yolov10.cc
+/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/src/yolov10.cc
 stdio.h
 -
 stdlib.h
@@ -102,11 +106,11 @@ string.h
 math.h
 -
 yolov10.h
-/home/firefly/yolov10_github/src/yolov10.h
+/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/src/yolov10.h
 common.h
-/home/firefly/yolov10_github/src/common.h
+/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/src/common.h
 file_utils.h
-/home/firefly/yolov10_github/src/file_utils.h
+/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/src/file_utils.h
 image_utils.h
-/home/firefly/yolov10_github/src/image_utils.h
+/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/src/image_utils.h
 

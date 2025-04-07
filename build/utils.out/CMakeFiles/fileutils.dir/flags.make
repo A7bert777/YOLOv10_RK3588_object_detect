@@ -6,5 +6,5 @@ C_FLAGS =
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/firefly/yolov10_github/include -I/home/firefly/yolov10_github/utils 
+C_INCLUDES = -I/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/include -I/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/utils 
 

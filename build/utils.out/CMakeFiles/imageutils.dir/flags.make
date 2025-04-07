@@ -6,5 +6,5 @@ C_FLAGS =
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/firefly/yolov10_github/include -I/home/firefly/yolov10_github/utils -I/home/firefly/yolov10_github/3rdparty/stb_image -I/home/firefly/yolov10_github/3rdparty/jpeg_turbo/include -I/home/firefly/yolov10_github/3rdparty/librga/include 
+C_INCLUDES = -I/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/include -I/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/utils -I/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/3rdparty/stb_image -I/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/3rdparty/jpeg_turbo/include -I/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/3rdparty/librga/include 
 

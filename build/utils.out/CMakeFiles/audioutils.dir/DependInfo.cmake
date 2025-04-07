@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/firefly/yolov10_github/utils/audio_utils.c" "/home/firefly/yolov10_github/build/utils.out/CMakeFiles/audioutils.dir/audio_utils.c.o"
+  "/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/utils/audio_utils.c" "/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/build/utils.out/CMakeFiles/audioutils.dir/audio_utils.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

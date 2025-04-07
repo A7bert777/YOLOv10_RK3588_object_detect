@@ -23,7 +23,7 @@
 
 #include <set>
 #include <vector>
-#define LABEL_NALE_TXT_PATH "/home/firefly/yolov10_github/model/4classgarbage.txt"
+#define LABEL_NALE_TXT_PATH "/home/firefly/GitHUb测试/YOLOv10_RK3588_object_detect/model/4classgarbage.txt"
 //#define LABEL_NALE_TXT_PATH "/home/firefly/yolov10/model/coco_80_labels_list.txt"
 static char *labels[OBJ_CLASS_NUM];
 
